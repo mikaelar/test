@@ -1,32 +1,26 @@
-[
-  {
-    "name": "James",
-    "age": 35,
-    "jobTitle": "productOwner"
-  },
-  {
-    "name": "Mary",
-    "age": 45,
-    "secretIdentity": "manager"
-  },
-  {
-    "name": "Patricia",
-    "age": 33,
-    "secretIdentity": "developer"
-  },
-  {
-    "name": "John",
-    "age": 28,
-    "secretIdentity": "developer"
-  },
-  {
-    "name": "Jennifer",
-    "age": 30,
-    "secretIdentity": "scrumMaster"
-  },
-  {
-    "name": "Robert",
-    "age": 22,
-    "secretIdentity": "intern"
-  }
-]
+---
+people:
+  employee_1:
+    name: James
+    age: 35
+    jobTitle: productOwner
+  employee_2:
+    name: Mary
+    age: 45
+    jobTitle: manager
+  employee_3:
+    name: Robert
+    age: 22
+    jobTitle: intern
+  employee_4:
+    name: Patricia
+    age: 33
+    jobTitle: developer
+  employee_5:
+    name: John
+    age: 28
+    jobTitle: developer
+  employee_6:
+    name: Jennifer
+    age: 30
+    jobTitle: scrumMaster
