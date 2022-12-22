@@ -2,6 +2,7 @@
 landscape:
   cfi_tools:
     docker_image_tag: v594
+    docker_image_digest: "sha256:883f129ef74891753b21f80d7b7f295a20af79a0c98bce18e2e6836451bdbf17"
 people:
   employee_1:
     name: James
