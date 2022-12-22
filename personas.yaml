@@ -1,4 +1,7 @@
 ---
+landscape:
+  cfi_tools:
+    docker_image_tag: v594
 people:
   employee_1:
     name: James
